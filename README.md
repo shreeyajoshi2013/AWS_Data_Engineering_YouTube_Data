@@ -4,6 +4,11 @@ The goal of this project is to help our imaginary customer in her marketing camp
 
 Dataset : [link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
+
+
+![My Image](D:\All other folders\SelfStudyNotes\Files for Portfolio\Git Project Folder\AWS_Data_Engineering_YouTube_Data\data_pipeline_flowchart.jpg)
+
+
 ### AWS services used:
 * S3
 * Glue
