@@ -6,7 +6,7 @@ Dataset : [link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
 
 
-![My Image](D:\All other folders\SelfStudyNotes\Files for Portfolio\Git Project Folder\AWS_Data_Engineering_YouTube_Data\data_pipeline_flowchart.jpg)
+![My Image](data_pipeline_flowchart.jpg)
 
 
 ### AWS services used:
