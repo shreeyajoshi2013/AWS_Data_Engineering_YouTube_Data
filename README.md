@@ -17,24 +17,17 @@ Dataset : [link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
     * IAM
 * Transformation:
     * S3 
-    * Lambda
-        * Trigger
-    * Glue
-        * Crawler
-        * Database
-        * ETL Job
+    * Lambda (with Trigger)
+    * Glue (Crawler, Database, ETL Job)
     * Athena
     * IAM
 * Loading
     * S3
-    * Glue
-        * Database
-        * ETL Job
+    * Glue (Database, ETL Job)
     * IAM
 * Business Intelligence
     * S3
-    * Glue
-        * Database
+    * Glue (Database)
     * QuickSight
     * IAM
 
