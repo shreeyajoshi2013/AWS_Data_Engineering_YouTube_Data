@@ -1,6 +1,6 @@
 # AWS Data Engineering Project - YouTube Data Analysis
 
-The goal of this project is to help our imaginary customer in her marketing campaign by providing her a data ready for finding out top category of YouTube videos to successfully market her product.  
+The goal of this project is to help our imaginary customer in launching her marketing campaign by providing her a data ready for finding out top category of trending YouTube videos.  
 
 Dataset : [link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
@@ -30,7 +30,6 @@ Dataset : [link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
     * Glue (Database)
     * QuickSight
     * IAM
-
 
 
 ### File Formats Handled:
