@@ -9,6 +9,18 @@ Dataset : [link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 ![My Image](data_pipeline_flowchart.jpg)
 
 
+### Highlights
+
+* Data ingestion
+* Data cleansing
+* Data transformation
+* Data Catalog
+* Data quering and analysis
+* ETL
+* Scalability through trigger of Lambda function
+* Data partitioning
+* Visualization - BI Dashboard
+
 ### AWS services used:
 
 * Extraction:
