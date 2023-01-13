@@ -10,13 +10,34 @@ Dataset : [link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
 
 ### AWS services used:
-* S3
-* Glue
-* Athena
-* Lambda
-* QuickSight
-* IAM
-* AWS CLI
+
+* Extraction:
+    * CLI
+    * S3
+    * IAM
+* Transformation:
+    * S3 
+    * Lambda
+        * Trigger
+    * Glue
+        * Crawler
+        * Database
+        * ETL Job
+    * Athena
+    * IAM
+* Loading
+    * S3
+    * Glue
+        * Database
+        * ETL Job
+    * IAM
+* Business Intelligence
+    * S3
+    * Glue
+        * Database
+    * QuickSight
+    * IAM
+
 
 
 ### File Formats Handled:
