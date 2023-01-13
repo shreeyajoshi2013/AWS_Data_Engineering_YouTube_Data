@@ -37,6 +37,9 @@ Dataset : [link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 * JSON
 * Parquet
 
+### Other Tools
+
+* Miro board - Used for Data Pipeline Diagram 
 
 ### References
 
